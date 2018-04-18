@@ -1,4 +1,4 @@
-code for paper:
+C++ code for paper:
 
 S. Li, X. Kang, and J. Hu, “Image fusion with guided filtering,” IEEE
 Trans. Image Process., vol. 22, no. 7, pp. 2864–2875, Jul. 2013.
